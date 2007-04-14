@@ -2,12 +2,12 @@
 
 http://img232.imageshack.us/img232/922/monorunneruu0.png
 
-= *MONORunner*: Che cos'è ... =
+= MONORunner: Che cos'è ... =
 
 Se avete già utilizzato un'applicazione MONO su piattaforma MS Windows vi sarete accorti che per avviare l'applicazione dovete indicare il path dell'eseguibile di MONO (mono.exe) seguito dal path dell'applicazione.
 L'eseguibile di *MONORunner* si occuperà di lanciare correttamente l'applicazione per MONO andandosi a cercare il giusto path dell'eseguibile di MONO (mono.exe).
 
-= *MONORunner*: Come si usa ... =
+= MONORunner: Come si usa ... =
 
 Posso usare *MONORunner* per creare pacchetti d'installazione su piattaforma MS Windows per applicazione MONO. 
 Esempio:
